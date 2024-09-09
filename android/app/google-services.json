@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "996152945532",
+    "project_id": "maternio-1f512",
+    "storage_bucket": "maternio-1f512.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:996152945532:android:d0b7e45cfbd4add95052f9",
+        "android_client_info": {
+          "package_name": "com.example.oopt"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuwfCDTJwVXdpD87VunvBOEjos-zLQv9g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
